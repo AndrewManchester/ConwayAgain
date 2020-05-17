@@ -1,2 +1,0 @@
-# ConwayAgain
-Created with CodeSandbox
