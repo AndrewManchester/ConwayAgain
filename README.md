@@ -12,8 +12,7 @@ as an array of arrays this may be interesting to you.
 The response to cell clicks is a little sluggish and gets
 slower as you increase the grid size.
 
-If you export to CodeSandbox.io you will quickly
-have a demo.
+There is a link on the right of this page to a CodeSandbox.io demo
 
 Bulma has been used for the html. Could be improved.
 
